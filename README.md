@@ -9,12 +9,12 @@ Register new users
 Issue a book to a user 
 Return a book 
 View operations through a simple menu interface.
-
+______________________________________________________
 ##Technologies Used
 Java (OOP Concepts).
 Scanner (for user input).
 Terminal/Command Prompt (CLI-based).
-
+______________________________________________________
 ##Project Structure
 LibraryManagementSystem/
 │
@@ -30,31 +30,7 @@ LibraryManagementSystem/
 4. Return Book
 5. Exit
  Enter your choice:
-
-=== Library Management Menu ===
-1. Add Book
-2. Add User
-3. Issue Book
-4. Return Book
-5. Exit
- Enter your choice: 1
-Enter Book ID: 2
-Enter Book Title: anu
-Enter Book Author: qmi
-Book added successfully!
-
- === Library Management Menu ===
-1. Add Book
-2. Add User
-3. Issue Book
-4. Return Book
-5. Exit
- Enter your choice: 1
-Enter Book ID: 1
-Enter Book Title: Java
-Enter Book Author: James Gousiln
-Book added successfully!
-
+________________________________________________________
 ##Sample Output:
  === Library Management Menu ===
 1. Add Book
@@ -74,7 +50,7 @@ User added successfully!
 4. Return Book
 5. Exit
  Enter your choice:
-___________________________________________________________________________________________________________________________________________
+___________________________________________________________
 ##Concepts Practiced
 Encapsulation using getters and setters
 Object creation and management
